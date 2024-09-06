@@ -1,5 +1,5 @@
 - Hi, I’m @JayaswalPrateek
-- I’m interested in CLI/Web development on Linux using Go, HTML, CSS, SQL, Javascript, Typescript, Java, Python, etc.
+- I’m interested in CLI/Web development on Linux using Go, HTML, CSS, SQL, Javascript, Typescript, Java, Python.
 - I use dev tools like Linux(RHEL), Docker, Git, BASH Shell, etc almost daily.
 - I have a strong bias towards building readable & efficient code focusing on Performance/Security/Accessibility/Scalability from the ground up.
 - Proficient with NodeJS, React, React Native, GraphQL, JS Runtime/GC internals, Spring, Consistent/Secure API Design, AWS, Linux internals, etc.
