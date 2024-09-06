@@ -1,4 +1,4 @@
-- Hi, I’m @JayaswalPrateek
+- Hi, I’m Prateeek
 - I’m interested in CLI/Web development on Linux using Go, HTML, CSS, SQL, Javascript, Typescript, Java, Python.
 - I productively use dev tools like Linux(RHEL), Docker, Git, BASH Shell, etc almost daily.
 - I have a strong bias towards building readable & efficient code focusing on Performance/Security/Accessibility/Scalability from the ground up.
