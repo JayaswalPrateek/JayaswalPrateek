@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @JayaswalPrateek
-- 👀 I’m interested in CLI Tools & Backend development on Linux using Technologies like Go, Python, NodeJS, C++, SQL
-- 👨‍🎨 Familiar with Frontend Technologies like HTML/CSS, Javascript
-- 🌱 I’m currently learning Web Dev, trying to make feature complete, bug free and at least maintainable(if not scalable) code
-- 💞️ I’m looking to collaborate on anything that interests/bother me
-- 📫 How to reach me jayaswalprateek@gmail.com
+- Hi, I’m @JayaswalPrateek
+- I’m interested in CLI/Web development on Linux using Go, HTML, CSS, SQL, Javascript, Typescript, Java, Python, C++, BASH, etc.
+- I use dev tools like Linux(RHEL), Docker, Git, etc almost daily.
+- I have a strong bias towards building readable & efficient code focusing on Performance/Security/Accessibility/Scalability from the ground up.
+- Proficient with NodeJS, React, React Native, GraphQL, JS Runtime/GC internals, Spring, Consistent/Secure API Design, AWS, Linux internals, etc.
+- Learning CS fundamentals to better understand software dynamics(Networking, Multithreading, HPC, DB internal, Distributed Systems, etc).
+- I’m looking to collaborate on anything that interests/bothers me.
+- How to reach me jayaswalprateek@gmail.com or https://x.com/JayaswalPrateek
 
 <!---
 JayaswalPrateek/JayaswalPrateek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
