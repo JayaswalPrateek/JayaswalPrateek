@@ -1,7 +1,6 @@
 - Hi, I’m Prateek
-- I’m interested in CLI/Web development on Linux using Go, HTML, CSS, SQL, Javascript, Typescript, Java, C/C++. Python, etc.
-- I productively use dev tools like Linux(RHEL), Docker, Git, BASH Shell, etc almost daily.
-- I have a strong bias towards building readable & efficient code focusing on Performance/Security/Accessibility/Scalability from the ground up.
+- I’m interested in Web/CLI development with Go, HTML, CSS, SQL, Javascript, Typescript, Java, C/C++. Python, etc.
+- I have a strong bias towards writing readable & efficient POSIX compliant code focusing on Performance/Security/Accessibility/Scalability from the ground up.
 - Proficient with NodeJS, React, Express, React Native, GraphQL, JVM/V8 internals, Spring, PostgresSQL, SQLite, Consistent/Secure API Design, AWS, Linux internals, etc.
 - I have strong concurrency fundamentals and can design non-trivial database schema.
 - Learning CS fundamentals to better understand software dynamics(Networking, Multithreading, HPC, DB internals, Distributed Systems, etc).
